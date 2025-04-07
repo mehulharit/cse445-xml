@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Marriott</Name>
+    <Phone>480-123-4567</Phone>
+    <Address NearestAirport="Phoenix Airport">
+      <Number>22</Number>
+      <Street>W 6th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Hilton</Name>
+    <Phone>602-765-4321</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>35</Number>
+      <Street>Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Hyatt</Name>
+    <Phone>623-987-6543</Phone>
+    <Phone>800-456-7890</Phone>
+    <Address NearestAirport="Phoenix Airport">
+      <Number>10</Number>
+      <Street>N Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85012</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Sheraton</Name>
+    <Phone>480-555-0000</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>88</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Holiday Inn</Name>
+    <Phone>480-789-1234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>44</Number>
+      <Street>University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>Comfort Suites</Name>
+    <Phone>602-321-9999</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>12</Number>
+      <Street>Baseline Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85040</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4">
+    <Name>Renaissance</Name>
+    <Phone>623-654-7890</Phone>
+    <Address NearestAirport="Phoenix Airport">
+      <Number>60</Number>
+      <Street>Jefferson St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85003</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Drury Inn</Name>
+    <Phone>480-999-8888</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>90</Number>
+      <Street>Washington St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.7">
+    <Name>Best Western</Name>
+    <Phone>602-111-2222</Phone>
+    <Address NearestAirport="Glendale Airport">
+      <Number>77</Number>
+      <Street>Northern Ave</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85301</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
